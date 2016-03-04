@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # name     : install-tmuxen, tmuxen install script
-# author   : Xu Xiaodong <xxdlhy@gmail.com>
+# author   : Jiang Liu <infinityhacks@gmail.com>
 # license  : GPL
 # created  : 2012 Jul 02
 # modified : 2013 Jul 06
